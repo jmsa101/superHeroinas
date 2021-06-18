@@ -59,6 +59,6 @@ El e-book actual contempla muchas de las ideas que ya había avanzado Doña Áng
 
  [Ver Bio](https://www.madrimasd.org/cienciaysociedad/patrimonio/personajes/biografia.asp?id=40)
 
-![alt text](https://github.com/jmsa101/superHeroinas/blob/main/angelaR.jpg  "Angela Ruiz y su enciclopedia mecánica")
+![alt text](https://github.com/jmsa101/superHeroinas/blob/main/angelaR.jpg "Angela Ruiz y su enciclopedia mecánica")
 
 [![ÁNGELA RUIZ ROBLES](http://img.youtube.com/vi/Oc0JVbAEZx8/0.jpg)](http://www.youtube.com/watch?v=Oc0JVbAEZx8)

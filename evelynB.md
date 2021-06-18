@@ -48,6 +48,6 @@ El más impresionante fue un sistema de reserva de pasajeros en línea para **Un
 
 [Ver Bio](https://www.theguardian.com/technology/2018/dec/19/evelyn-berezin-obituary)
 
-![alt text](https://github.com/jmsa101/superHeroinas/blob/main/evelynB.webp  "Evelyn Berezin, presidenta de Redactron Corporation, con el Data Secretary, el primer procesador de texto computarizado, que ella diseñó y comercializó, en Long Island, Nueva York.")
+![alt text](https://github.com/jmsa101/superHeroinas/blob/main/evelynB.webp "Evelyn Berezin, presidenta de Redactron Corporation, con el Data Secretary, el primer procesador de texto computarizado, que ella diseñó y comercializó, en Long Island, Nueva York.")
 
 [![EVELYN BEREZIN Podcast Lila 19 - MUJERES silenciadas](http://img.youtube.com/vi/zuHRc0JKaC4/0.jpg)](http://www.youtube.com/watch?v=zuHRc0JKaC4)

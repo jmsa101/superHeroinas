@@ -20,6 +20,6 @@ Ada murió de cáncer en 1852, a la edad de 37 años, y fue enterrada junto al p
 
 [Ver Bio](https://www.sdsc.edu/ScienceWomen/lovelace.html)
 
-![alt text](https://www.sdsc.edu/ScienceWomen/images/lovelace.JPG "Retrato de Ada Lovelace de 1836")
+![alt text](https://github.com/jmsa101/superHeroinas/blob/main/adaL.jpg "Retrato de Ada Lovelace en 1836")
 
 [![La mujer en la ciencia: Ada Lovelace](http://img.youtube.com/vi/iNIFE685mHo/0.jpg)](http://www.youtube.com/watch?v=iNIFE685mHo)

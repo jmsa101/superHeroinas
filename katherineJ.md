@@ -24,6 +24,6 @@ Johnson murió el 24 de febrero de 2020, a la edad de 101 años. En su honor, la
 
 [Ver Bio](https://kids.nationalgeographic.com/history/article/katherine-johnson)
 
-![alt text](https://i.natgeofe.com/k/0b478a6e-b828-4751-be32-64177727d7a3/katherine_johnson_working.jpg "Katherine Johnson trabaja con una máquina sumadora y un dispositivo de entrenamiento celestial, una especie de globo dentro de otro globo para ayudar a calcular la navegación espacial, en el Centro de Investigación Langley de la NASA en 1962.")
+![alt text](https://github.com/jmsa101/superHeroinas/blob/main/katherineJ.webp "Katherine Johnson trabaja con una máquina sumadora y un dispositivo de entrenamiento celestial, una especie de globo dentro de otro globo para ayudar a calcular la navegación espacial, en el Centro de Investigación Langley de la NASA en 1962.")
 
 [![Katherine Johnson Biografía de una mujer](http://img.youtube.com/vi/krVSMI-F3zk/0.jpg)](http://www.youtube.com/watch?v=krVSMI-F3zk)
